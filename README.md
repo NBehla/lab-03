@@ -6,7 +6,7 @@ List any resources used here, or simply put `N/A` if not applicable.
 
 ## Verbal Collaboration
 
-| Student Name | CCID      |
+| Noordeep Behla | 1715668 |
 | ------------ | --------- |
 | `N/A`    | `N/A` |
 | `N/A`    | `N/A` |
